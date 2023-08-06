@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">test add product to cart</string>
+    <string name="loading">Loading…</string>
+    <string name="promotion">Khuyến mãi…</string>
+    <string name="add">Thêm</string>
+    <string name="spinner_prompt">Chọn một mục</string>
+    <string name="back">Trở lại</string>
+    <string name="details_information">Thông tin chi tiết</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="forgot_password_">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="action_home">Đồ ăn</string>
+    <string name="action_feedback">Phản hồi</string>
+    <string name="action_order">Đơn hàng</string>
+    <string name="action_account">Tài khoản</string>
+    <string name="nav_my_profile">Thông tin tài khoản</string>
+    <string name="nav_change_password">Đổi mật khẩu</string>
+    <string name="nav_sign_out">Đăng xuất</string>
+    <string name="income">Báo cáo doanh thu</string>
+    <string name="name_account">Tên người dùng</string>
+    <string name="info_account">Thông tin tài khoản</string>
+    <string name="update_info">Cập nhật thông tin</string>
+    <string name="change_password">Nhập mật khẩu thay đổi:</string>
+    <string name="current_password">Nhập mật khẩu hiện tại:</string>
+    <string name="history">Lịch sử đặt hàng</string>
+    <string name="order">Order</string>
+    <string name="title">Title</string>
+    <string name="hello">Ứng dụng đặt đồ ăn, Xin chào!</string>
+    <string name="zalo_phone">Zalo/Phone</string>
+    <string name="gmail">Gmail</string>
+    <string name="facebook">Facebook</string>
+    <string name="admin_name">Nguyễn Tiến Dũng</string>
+    <string name="title_text_phone">Số điện thoại: 0000000000</string>
+    <string name="email_address_admin">Email: Ibrabalotesii@gmail.com</string>
+    <string name="send_feedback">Gửi phản hồi</string>
+    <string name="categories">Loại thực phẩm</string>
+    <string name="txt_food_suggestions">Gợi ý món ăn</string>
+    <string name="todo">TODO</string>
+    <string name="_1">1</string>
+    <string name="cart">Cart</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="order_details">Chi tiết đơn hàng</string>
+    <string name="_666">666 VND</string>
+    <string name="Orderer">Họ tên người đặt hàng</string>
+    <string name="place_of_delivery">Địa điểm giao hàng</string>
+    <string name="order_confirmation">Đặt hàng</string>
+    <string name="Order_List">Danh sách đơn hàng</string>
+    <string name="time_order">Thời gian đặt hàng</string>
+
+    <array name="spinner_items">
+        <item>Cơm</item>
+        <item>Mì</item>
+        <item>Pizza</item>
+        <item>Bánh ngọt</item>
+        <item>Đồ uống</item>
+        <item>Freeze</item>
+        <item>Trà</item>
+        <item>Đồ ăn nhanh</item>
+    </array>
+</resources>

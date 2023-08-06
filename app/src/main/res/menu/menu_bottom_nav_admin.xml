@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/action_home"/>
+        <item
+            android:id="@+id/action_feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="@string/action_feedback"/>
+        <item
+            android:id="@+id/fab"
+            android:title=""
+            android:enabled="false"/>
+        <item
+            android:id="@+id/action_order"
+            android:icon="@drawable/ic_order"
+            android:title="@string/action_order" />
+        <item
+            android:id="@+id/action_account"
+            android:icon="@drawable/ic_account"
+            android:title="@string/action_account" />
+    </group>
+</menu>

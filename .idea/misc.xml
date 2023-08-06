@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/drawable/border.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/drawable/custom_spinner_item.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/drawable/rounded_button_bg.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout-sw600dp/activity_upload.xml" value="0.13387978142076504" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout-sw600dp/list_type_item.xml" value="0.24419398907103826" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/activity_cart.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/activity_main.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/activity_show_detail.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/activity_upload.xml" value="0.18819655521783182" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/cart_fragment.xml" value="0.18819655521783182" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/contact_fragment.xml" value="0.18768996960486323" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/feedback_fragment.xml" value="0.18768996960486323" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/home_fragment.xml" value="0.33" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/layout_cart_item.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/list_type_item.xml" value="0.2015625" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/profile_fragment.xml" value="0.18768996960486323" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/progress_layout.xml" value="0.19525547445255476" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/layout/recycler_item.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/app/src/main/res/menu/bottom_navigation_bar.xml" value="0.362962962962963" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/background_transparent.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/ic_account.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/ic_assessment.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/ic_change_password.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/ic_exit.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/ic_feedback.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/ic_home.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/ic_my_profile.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/ic_order.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable-v24/yellow_round.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable/box_input_item.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable/cat_background.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable/ic_back.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable/ic_history.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable/orange_light_banner.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable/rounded_button_bg.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/drawable/yellow_round.xml" value="0.3325" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/activity_admin.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/activity_cart.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/activity_login.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/activity_main.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/activity_register.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/activity_splash.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/activity_upload.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/admin_account_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/admin_feedback_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/admin_home_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/admin_home_fragment1.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/admin_order_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/cart_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/contact_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/dialog_email.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/dialog_forgot.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/dialog_info_account.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/dialog_phone.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/dialog_update_password.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/feedback_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/home_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/layout_cart_item.xml" value="0.2015625" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/list_type_item.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/profile_fragment.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/progress_layout.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/recycler_feedback_user.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/recycler_item.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/recycler_item_admin.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/recycler_item_order.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/layout/viewholder_category.xml" value="0.32382246376811596" />
+        <entry key="..\:/UiLoverAndroid/testaddproducttocart/app/src/main/res/menu/menu_bottom_nav_admin.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

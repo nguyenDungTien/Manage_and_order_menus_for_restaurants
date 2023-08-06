@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861736451929",
+    "firebase_url": "https://testaddproducttocart-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testaddproducttocart",
+    "storage_bucket": "testaddproducttocart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861736451929:android:d91730db3359841dd09648",
+        "android_client_info": {
+          "package_name": "com.example.testaddproducttocart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861736451929-4dkjq7uoaonh3tk2272bfhjiipvhmmeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhsFuaf-GpH1utt6OsW7Kmi4Sy2C9FtUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861736451929-4dkjq7uoaonh3tk2272bfhjiipvhmmeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
